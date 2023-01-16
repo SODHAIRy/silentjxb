@@ -1,1 +1,1 @@
-import JXB
+import silentjxb
